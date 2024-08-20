@@ -1,7 +1,7 @@
 # KIDS24-team19 #
 
 ### What is this repository for? ###
-This repository is for St. JUde KIDS BioHackathon team 19. Our project title is "Implementing a cloud based pipeline for prioritizing disease predisposition genes utilizing large public summary genetic count data"
+This repository is for St. Jude KIDS24 BioHackathon team 19. Our project title is "Implementing a cloud based pipeline for prioritizing disease predisposition genes utilizing large public summary genetic count data"
 
 ### Contributors ###
 * Saima Sultana Tithi
