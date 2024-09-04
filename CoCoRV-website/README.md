@@ -8,7 +8,7 @@ This repository is for the website development for CoCoRV pipeline.
 * Adam Cornwell
 
 ### Contact ###
-* Please contact Saima Sultana Tithi (saimasultana.tithi@stjude.org) for any questions
+* Please contact Anulika Nwashili (nwashilianulika@gmail.com) and Adam Cornwell (adam.cornwell@stjude.org) for any questions
 
 ### License ###
 MIT license
