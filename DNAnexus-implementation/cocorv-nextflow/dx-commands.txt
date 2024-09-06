@@ -1,0 +1,1 @@
+dx build -a --nextflow cocorv-nextflow --destination CoCoRV_dev:/applets/nextflow-workflows/cocorv-nextflow_v2
